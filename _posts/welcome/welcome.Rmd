@@ -1,13 +1,9 @@
 ---
 title: "Welcome to Just Some Data"
 description: |
-  Welcome to our new blog, Just Some Data. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my new blog. Let me explain why it exists. 
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Matthew Lavallee
 date: 10-03-2020
 output:
   distill::distill_article:
@@ -16,10 +12,6 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating blogs with Distill at:
-# https://rstudio.github.io/distill/blog.html
-
 ```
 
 
