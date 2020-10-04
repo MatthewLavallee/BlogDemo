@@ -1,0 +1,23 @@
+---
+title: "Contributors"
+description: |
+
+author:
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The people that make *Just Some Data* special.
+
+Name | Bio
+----------------------|-------------------------------------------------
+**Matthew Lavallee** | Matthew studied Economics and Mathematics at Hampshire College, and now does Medicaid research as a Economics Pre-doctoral Fellow with the Tobin Center/Yale's School of Public Health.
+
+
+
+
+

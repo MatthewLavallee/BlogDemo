@@ -1,0 +1,19 @@
+---
+title: "Our Favorite Data Sources"
+description: |
+ A running list of our favorite public data sources.
+author:
+  - name: Matthew Lavallee 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Name | Description
+----------------------|-------------------------------------------------
+[**IPUMS**](https://ipums.org/) | Vast amounts of survey data from around the world.
+
+

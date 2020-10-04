@@ -1,9 +1,10 @@
 ---
 title: "About this blog"
-description: |
-  Some additional details about the blog
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+*Just Some Data* is a blog about everyday questions being explored with public data. It's a space where contributors take a shot at learning something new about the world, while also trying to communicate those ideas through data.
+
+We hope you enjoy what we create.
