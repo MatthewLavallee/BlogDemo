@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Just Some Data</title>
+    <link>https://justsomedata.com/</link>
+    <atom:link href="https://justsomedata.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Just Some Data
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Purpose of the Space</title>
+      <dc:creator>Matthew Lavallee</dc:creator>
+      <link>https://justsomedata.com/posts/welcome</link>
+      <description>Welcome to *Just Some Data*. Let me explain why it exists.</description>
+      <guid>https://justsomedata.com/posts/welcome</guid>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

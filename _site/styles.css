@@ -3,14 +3,14 @@
 
 .distill-site-nav {
   color: #FFFFFF;
-  background-color: #2a4b7c;
+  background-color: #FE4164;
   font-size: 15px;
   font-family: 'Miriam Libre', sans-serif;
   font-weight: 300;
 }
 
 .distill-site-nav a:hover {
-  color: #FE4164;
+  color: #000000;
 }
 
 h1, h2, h3, h4, h5 {
