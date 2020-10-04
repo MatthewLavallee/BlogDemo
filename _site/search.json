@@ -5,15 +5,15 @@
       "title": "About this blog",
       "author": [],
       "contents": "\nJust Some Data is a blog about everyday questions being explored with public data. It’s a space where contributors take a shot at learning something new about the world, while also trying to communicate those ideas through data.\nWe hope you enjoy what we create.\n\n\n\n",
-      "last_modified": "2020-10-04T18:41:54-04:00"
+      "last_modified": "2020-10-04T19:11:17-04:00"
     },
     {
       "path": "Contributors.html",
       "title": "Contributors",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\nThe people that make Just Some Data special.\nName\nBio\nMatthew Lavallee\nMatthew studied Economics and Mathematics at Hampshire College, and now does Medicaid research as a Economics Pre-doctoral Fellow with the Tobin Center/Yale’s School of Public Health.\nLarissa Holland\nLarissa studied\n\n\n\n",
-      "last_modified": "2020-10-04T18:41:55-04:00"
+      "contents": "\nThe people that make Just Some Data special.\nName\nBio\nMatthew Lavallee\nMatthew studied Economics and Mathematics at Hampshire College, and now does Medicaid research as a Economics Pre-doctoral Fellow with the Tobin Center/Yale’s School of Public Health.\nLarissa Holland\n\n\n\n\n",
+      "last_modified": "2020-10-04T19:11:18-04:00"
     },
     {
       "path": "Data.html",
@@ -27,14 +27,14 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nName\nDescription\nIPUMS\nVast amounts of survey data from around the world.\nCDC WONDER\nVast amounts of public health data.\n\n\n\n",
-      "last_modified": "2020-10-04T18:41:55-04:00"
+      "last_modified": "2020-10-04T19:11:18-04:00"
     },
     {
       "path": "index.html",
-      "title": "Just Some Data",
+      "title": "Posts",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2020-10-04T18:41:56-04:00"
+      "last_modified": "2020-10-04T19:11:19-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

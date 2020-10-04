@@ -9,8 +9,6 @@ navbar:
   source_url: true
   search: true
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
     - text: "Contributors"
