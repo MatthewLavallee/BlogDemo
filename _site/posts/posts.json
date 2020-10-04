@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "The Purpose of the Space",
-    "description": "Welcome to my new blog. Let me explain why it exists.",
+    "description": "Welcome to Just Some Data. Let me explain why it exists.",
     "author": [
       {
         "name": "Matthew Lavallee",
@@ -12,7 +12,7 @@
     "date": "2020-10-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-03T23:33:44-04:00",
+    "last_modified": "2020-10-04T01:34:57-04:00",
     "input_file": "welcome.utf8.md"
   }
 ]

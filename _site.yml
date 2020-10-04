@@ -9,9 +9,6 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-collections:
-  posts:
-    share: [twitter, facebook]
 output: 
-  distill::distill_article
+  distill::distill_article:
     css: styles.css
