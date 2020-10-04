@@ -1,7 +1,7 @@
 ---
 title: "The Purpose of the Space"
 description: |
-  Welcome to my new blog. Let me explain why it exists. 
+  Welcome to my blog. Let me explain why it exists. 
 author:
   - name: Matthew Lavallee
 date: 10-03-2020
@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Welcome to this new space I'm carving out for myself. It has two primary purposes:
-* Give me room to build on skills/hobbies I already enjoy.
-* Explore topics and try to learn new things about the world.
+In the last two years, I've found myself exploring lots of different topics, with no place to consolidate information and findings. This space, that I'm now carving out for myself, will hopefully serve that purpose. 
+
+
 
