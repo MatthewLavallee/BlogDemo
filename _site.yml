@@ -1,7 +1,7 @@
-name: "Blog"
+name: "BlogDemo"
 title: "Just Some Data"
 description: |
-  A blog dedicated to the topics that 
+  Just Some Data
 output_dir: "_site"
 navbar:
   right:
