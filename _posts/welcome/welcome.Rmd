@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Just Some Data"
+title: "The Purpose of the Space"
 description: |
   Welcome to my new blog. Let me explain why it exists. 
 author:
@@ -14,5 +14,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
+Welcome to this new space I'm carving out for myself. It has two primary purposes:
+* Give me room to build on skills/hobbies I already enjoy.
+* Explore topics and try to learn new things about the world.
 
