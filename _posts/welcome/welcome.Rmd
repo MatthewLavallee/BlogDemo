@@ -1,7 +1,7 @@
 ---
 title: "The Purpose of the Space"
 description: |
-  Welcome to my blog. Let me explain why it exists. 
+  Welcome to Just Some Data. Let me explain why it exists. 
 author:
   - name: Matthew Lavallee
 date: 10-03-2020
@@ -13,8 +13,4 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
-In the last two years, I've found myself exploring lots of different topics, with no place to consolidate information and findings. This space, that I'm now carving out for myself, will hopefully serve that purpose. 
-
-
 

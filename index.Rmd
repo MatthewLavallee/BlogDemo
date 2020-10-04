@@ -1,5 +1,5 @@
 ---
-title: "Just Some Dat"
+title: "Just Some Data"
 site: distill::distill_website
 listing: posts
 ---
