@@ -14,5 +14,21 @@
     "preview": {},
     "last_modified": "2020-10-03T22:19:55-04:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2020-10-03-im-a-new-post/",
+    "title": "I'm a new post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-10-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-10-03T22:44:08-04:00",
+    "input_file": "im-a-new-post.utf8.md"
   }
 ]
