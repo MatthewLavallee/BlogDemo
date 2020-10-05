@@ -18,7 +18,7 @@ Over the last two decades data has become increasingly accessible and visualizat
 
 For the last two years I've explored my own interests via data, with no place to consolidate the work. I'm now carving out that space for myself, and hopefully others. *Just Some Data* explores everyday questions with two primary purposes in mind:
 
-* A place where authors share things they learn about the world.
-* A place where authors share data visualization tools they're learning.
+* To serve as a place where authors share things they learn about the world.
+* To serve as a place where authors share data visualization tools they're learning.
 
-Hopefully, the space also serves as a source of interesting content. 
+Hopefully, the space also serves as a source of interesting content and stimulating ideas. 
